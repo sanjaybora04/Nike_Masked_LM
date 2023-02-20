@@ -1,6 +1,7 @@
 ## Tasks:
 
 1. These are the testing texts i defined for the model
+![TestingTexts](readme_data/TestingTexts.png)
 
 2.  In addition to the data provided in uptrain example i scraped some reviews from some products in amazon using [this](https://github.com/sanjaybora04/Nike_Masked_LM/blob/main/web_scrapping.py) script
 
